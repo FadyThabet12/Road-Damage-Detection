@@ -41,12 +41,11 @@ The project applies Object Detection techniques to improve road inspection and i
 ```bash
 RoadDamageDetection/
 │
-├── app.py                # Streamlit deployment code
-├── best.pt               # Trained YOLOv8 model
-├── dataset.yaml          # Dataset configuration
-├── runs/                 # YOLO training results
-├── README.md             # Project documentation
-└── notebooks/            # Training notebooks
+├── deployment.py               
+├── best.pt               
+├── data.yaml        
+├── README.md            
+└── notebooks/ PR2,ipynb         
 ```
 
 ---
