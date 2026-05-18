@@ -2,5 +2,5 @@ path: ./datasets
 train: images/train
 val: images/val
 
-nc: 3  # غيرنا الرقم لـ 3
-names: ['Pothole', 'Crack', 'Other'] # ضفنا اسم تالت
+nc: 3  
+names: ['Pothole', 'Crack', 'Other']
