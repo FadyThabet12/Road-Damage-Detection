@@ -45,7 +45,7 @@ RoadDamageDetection/
 ├── best.pt               
 ├── data.yaml        
 ├── README.md            
-└── notebooks/ PR2,ipynb         
+└── PR2.ipynb         
 ```
 
 ---
