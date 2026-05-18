@@ -66,20 +66,21 @@ The dataset was prepared in YOLO format with:
 
 ---
 
-# Model Training
+# Training Configuration
 
-The project uses **YOLOv8** for object detection.
+The model was trained using YOLOv8 with different training settings such as:
+- Epochs
+- Image size
+- Data augmentation
 
-## Training Configuration
+Training was performed on a custom road damage dataset to improve detection accuracy and model performance.
 
-
-```
-
-
+---
 
 # Deployment
 
 The system is deployed using **Streamlit**.
+
 ---
 
 # Detection Pipeline
@@ -132,15 +133,13 @@ The model performance was evaluated using:
 
 ---
 
-
----
-
 # Author
-Developed by:
+
+Developed by:  
 **Fady Thabet**
 
-Student at:
-Badr University in Assiut
+Student at:  
+Badr University in Assiut  
 School of Artificial Intelligence and Data Management
 
 ---
@@ -149,5 +148,4 @@ School of Artificial Intelligence and Data Management
 
 * The project uses Deep Learning and Computer Vision techniques.
 * YOLOv8 was selected because of its high detection accuracy and real-time performance.
-
-
+* Streamlit was used to build the deployment interface.
