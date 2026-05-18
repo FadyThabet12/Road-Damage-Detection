@@ -72,10 +72,10 @@ The project uses **YOLOv8** for object detection.
 
 ## Training Configuration
 
-`
+
 ```
 
----
+
 
 # Deployment
 
