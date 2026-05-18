@@ -81,13 +81,6 @@ The project uses **YOLOv8** for object detection.
 # Deployment
 
 The system is deployed using **Streamlit**.
-
-## Run the Application
-
-```bash
-streamlit run app.py
-```
-
 ---
 
 # Detection Pipeline
