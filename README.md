@@ -42,9 +42,10 @@ The project applies Object Detection techniques to improve road inspection and i
 RoadDamageDetection/
 │
 ├── deployment.py               
-├── best.pt               
+├── best.pt              
 ├── data.yaml        
-├── README.md            
+├── README.md
+├──requirements.txt            
 └── Final_PR.ipynb         
 ```
 
